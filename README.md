@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/361060/m/phpubxkeg-screenshot.png?v=1773218114" alt="Canva screenshot 2"/>
+  <img src="https://canva.fileion.com/storage/software/screenshots/2025/10/canva-feature-image-mac.jpeg" alt="Canva screenshot 2"/>
 </p>
 
 ---
